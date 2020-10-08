@@ -1,0 +1,25 @@
+{
+  "name": "fitness-tracker",
+  "version": "1.0.0",
+  "description": "As a user, I want to track my progress of fitness. From the distance of my jogs to the weights I will lift and to be able to add new workouts to my app.",
+  "main": "\u001b[D\u001b[D\u001b[D\u001bserver.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damian545/fitness-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damian545/fitness-tracker/issues"
+  },
+  "homepage": "https://github.com/damian545/fitness-tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "init": "^0.1.2",
+    "mongoose": "^5.10.8",
+    "morgan": "^1.10.0"
+  }
+}
